@@ -4,7 +4,7 @@ a minimal startpage automatically stylized by [(py)wal](https://github.com/dylan
 
 ## setup
 
-change `YOUR_USERNAME_HERE` on the first line of [main.css](main.css).
+run the [start.sh](start.sh) script, the web server serving wal-start will now be available on the port 8080.
 
 ## example
 

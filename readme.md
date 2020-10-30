@@ -4,7 +4,7 @@ a minimal startpage automatically stylized by [(py)wal](https://github.com/dylan
 
 ## setup
 
-run the [start.sh](start.sh) script, the web server serving wal-start will now be available on the port 8080.
+run the [setup.sh](setup.sh) script, you can then either use the local file or setup local web hosting using [serve](https://rubygems.org/gems/serve) or similair. 
 
 ## example
 

@@ -1,6 +1,6 @@
 # wal-start
 
-a minimal startpage automatically stylized by [(py)wal](https://github.com/dylanaraps/pywal), based on [mpcsh-startpage](https://github.com/startpages/startpages.github.io/tree/master/startpages/mpcsh-startpage).
+mini startpage automatically stylized by [(py)wal](https://github.com/dylanaraps/pywal), based on [mpcsh-startpage](https://github.com/startpages/startpages.github.io/tree/master/startpages/mpcsh-startpage).
 
 ## setup
 
